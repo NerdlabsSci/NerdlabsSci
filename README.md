@@ -1,4 +1,4 @@
-Hi! i'm nerdlabs! I like inventing stuff and making games. Check out my youtube channel at youtube.com/@nerdlabssci
+Hi! I'm CatGirlDev aka lazerlemur, i am a gd player and beginner game dev
 
 <!---
 NerdlabsSci/NerdlabsSci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
